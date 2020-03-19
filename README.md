@@ -1,4 +1,4 @@
-Information about this dataset
+Information about the Boston dataset
 
 Housing Values in Suburbs of Boston The Boston data frame has 506 rows and 14 columns. This data frame contains the following columns:
 
